@@ -1,0 +1,2 @@
+les roses sont #FF0000
+les violettes sont #0000FF
