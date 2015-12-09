@@ -1,2 +1,4 @@
 les roses sont #FF0000
 les violettes sont #0000FF
+
+OK il existe des roses pas #FF0000 !
